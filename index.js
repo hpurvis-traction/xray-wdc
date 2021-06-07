@@ -1,11 +1,11 @@
 // Web Data Connector From Xray to Tableau
  
 const qaConfig = {
-    clientId: "0oa390awx9dtVgoIO4x7",
-    redirectUri: "https://hpurvis-traction.github.io/xray-wdc-qa/index.html?",
-    authUrl: "https://dev-580656.okta.com/oauth2/default/v1",
-    baseUrl: "https://xray-qa-api.azurewebsites.net/api/",
-    version: "20210519",
+    clientId: "0oarpomu6j7JpK4Qx0x7",
+    redirectUri: "https://hpurvis-traction.github.io/xray-wdc/index.html?",
+    authUrl: "https://tractionondemand.okta.com/oauth2/default/v1",
+    baseUrl: "https://xray-api.azurewebsites.net/api/",
+    version: "20210607",
 }; 
 
 // Called when web page first loads and when
