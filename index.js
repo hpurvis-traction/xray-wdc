@@ -4,7 +4,7 @@ const qaConfig = {
     clientId: "0oarpomu6j7JpK4Qx0x7",
     redirectUri: "https://hpurvis-traction.github.io/xray-wdc/index.html?",
     authUrl: "https://tractionondemand.okta.com/oauth2/default/v1",
-    baseUrl: "https://traction-xray-api.azurewebsites.net/api",
+    baseUrl: "https://traction-xray-api.azurewebsites.net/api/",
     version: "20210607",
 }; 
 
